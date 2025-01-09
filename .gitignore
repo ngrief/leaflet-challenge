@@ -1,0 +1,46 @@
+# Node.js dependencies (if using npm for package management)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.lock
+
+# Build files (if applicable)
+dist/
+build/
+
+# Exclude compiled or output files if generated
+*.map
+*.out
+
+# Environmental variables
+.env
+.env.local
+
+# Exclude uploaded assets/screenshots (if not part of the project)
+Leaflet-Part-1/static/images/
+Leaflet-Part-2/static/images/
+
+# Specific to macOS
+*.DS_Store
+
+# Windows-specific
+Desktop.ini
