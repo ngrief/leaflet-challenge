@@ -16,7 +16,7 @@ This project is a two-part data visualization challenge using **Leaflet.js** and
 
 ### Screenshot:
 *(Add a screenshot of your Part 1 visualization here)*
-
+![alt text](image.png)
 ---
 
 ## Part 2: Earthquakes and Tectonic Plates
@@ -35,7 +35,7 @@ This project is a two-part data visualization challenge using **Leaflet.js** and
 
 ### Screenshot:
 *(Add a screenshot of your Part 2 visualization here)*
-
+![alt text](image-1.png)
 ---
 
 ## Technologies Used
@@ -58,4 +58,4 @@ This project is a two-part data visualization challenge using **Leaflet.js** and
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/leaflet-challenge.git
+   git clone https://github.com/ngrief/leaflet-challenge.git
