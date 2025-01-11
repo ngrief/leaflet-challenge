@@ -1,5 +1,5 @@
 // Create the map object and set the initial view
-const map = L.map("map").setView([37.09, -95.71], 5); // Centered on the US
+const map = L.map("map").setView([37.09, -95.71], 4); // Centered on the US
 
 // Add the base tile layer (street map) from Leaflet
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
