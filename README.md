@@ -15,8 +15,7 @@ This project is a two-part data visualization challenge using **Leaflet.js** and
 - A legend explains the color scale for earthquake depth.
 
 ### Screenshot:
-*(Add a screenshot of your Part 1 visualization here)*
-![alt text](image.png)
+![alt text](pic1.png)
 ---
 
 ## Part 2: Earthquakes and Tectonic Plates
@@ -34,7 +33,6 @@ This project is a two-part data visualization challenge using **Leaflet.js** and
 - Earthquake data and tectonic plates are styled and displayed with unique visuals for clarity.
 
 ### Screenshot:
-*(Add a screenshot of your Part 2 visualization here)*
 ![alt text](image-1.png)
 ---
 
